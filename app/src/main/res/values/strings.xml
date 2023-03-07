@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VAPS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">VAPS User</string>
+    <string name="nav_header_subtitle">mail@project_exhibition.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Book Cabs</string>
+    <string name="menu_gallery">Trip History</string>
+    <string name="menu_slideshow">Promotions and Coupons</string>
+    <string name="menu_tools">Payment Options</string>
+    <string name="menu_share">Share VAPS</string>
+    <string name="menu_send">Send Feedback</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="pay_using_razorpay">Pay using RazorPay</string>
+    <string name="enter_amount_to_be_payed">Enter amount to be payed</string>
+</resources>

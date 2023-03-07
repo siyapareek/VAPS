@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144227587438",
+    "project_id": "vaps-cabs",
+    "storage_bucket": "vaps-cabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144227587438:android:77dacc85576c1b17851d7f",
+        "android_client_info": {
+          "package_name": "com.app.VAPS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144227587438-sfi1cive9q1t5b99jprvn26j9j8im18r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB350vbujB2afFIzjS-jzziyu4ar7Hvovo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144227587438-sfi1cive9q1t5b99jprvn26j9j8im18r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

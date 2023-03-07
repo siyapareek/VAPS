@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ME"
+        android:title="Main Entry" />
+    <item
+        android:id="@+id/AB"
+        android:title="Academic Block" />
+    <item
+        android:id="@+id/UB"
+        android:title="Under Belly" />
+    <item
+        android:id="@+id/MPH"
+        android:title="Multi Purpose Hall" />
+    <item
+        android:id="@+id/GH"
+        android:title="Girls Hostel" />
+    <item
+        android:id="@+id/BH1"
+        android:title="Boys Hostel B1" />
+    <item
+        android:id="@+id/BH2"
+        android:title="Boys Hostel B2" />
+    <item
+        android:id="@+id/BH3"
+        android:title="Boys Hostel B3" />
+
+</menu>
